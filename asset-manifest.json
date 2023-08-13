@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/barbie/static/css/main.1aaaf45e.css",
-    "main.js": "/barbie/static/js/main.3bede0d7.js",
-    "static/js/787.5f11c833.chunk.js": "/barbie/static/js/787.5f11c833.chunk.js",
-    "static/media/barbie.jpeg": "/barbie/static/media/barbie.c3ae9890ae41b0c26265.jpeg",
-    "index.html": "/barbie/index.html",
-    "main.1aaaf45e.css.map": "/barbie/static/css/main.1aaaf45e.css.map",
-    "main.3bede0d7.js.map": "/barbie/static/js/main.3bede0d7.js.map",
-    "787.5f11c833.chunk.js.map": "/barbie/static/js/787.5f11c833.chunk.js.map"
+    "main.css": "/barbie/posts/static/css/main.73e1609a.css",
+    "main.js": "/barbie/posts/static/js/main.22517201.js",
+    "static/js/787.5f11c833.chunk.js": "/barbie/posts/static/js/787.5f11c833.chunk.js",
+    "static/media/barbie.jpeg": "/barbie/posts/static/media/barbie.c3ae9890ae41b0c26265.jpeg",
+    "index.html": "/barbie/posts/index.html",
+    "main.73e1609a.css.map": "/barbie/posts/static/css/main.73e1609a.css.map",
+    "main.22517201.js.map": "/barbie/posts/static/js/main.22517201.js.map",
+    "787.5f11c833.chunk.js.map": "/barbie/posts/static/js/787.5f11c833.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aaaf45e.css",
-    "static/js/main.3bede0d7.js"
+    "static/css/main.73e1609a.css",
+    "static/js/main.22517201.js"
   ]
 }
