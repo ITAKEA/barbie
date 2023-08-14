@@ -10,7 +10,7 @@ function PostDetail() {
     const [translatedPost, setTranslatedPost] = useState(null);
 
     useEffect(() => {
-        axios.get(`http://localhost:8080/api/posts/${id}`) // http://13.69.24.73:8080/
+        axios.get(`http://13.69.24.73:8080/api/posts/${id}`) // http://13.69.24.73:8080/
             .then(response => {
                 setPost(response.data);
                 setComments(response.data.comments);
