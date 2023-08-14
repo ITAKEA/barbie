@@ -5,7 +5,7 @@ function PostsList() {
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
-    fetch("http://13.69.24.73:8080/api/posts") // 13.69.24.73
+    fetch("http://localhost:8080/api/posts") // 13.69.24.73
       .then(response => response.json())
       .then(data => setPosts(data))
       .catch(error => console.error("Error fetching data:", error));
