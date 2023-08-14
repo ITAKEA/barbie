@@ -19,7 +19,7 @@ function PostDetail() {
     }, [id]);
 
     const handleTranslate = () => {
-        axios.get(`http://localhost:8080/api/posts/${id}/translated`)
+        axios.get(`http://13.69.24.73:8080/api/posts/${id}/translated`)
             .then(response => {
                 setTranslatedPost(response.data);
             })
